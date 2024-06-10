@@ -1,3 +1,3 @@
 <?php
 
-$stripe_secret_key = 'sk_test_51PKwwVGo8mCL2TedASV1tXVxEKQPicgp6dlVj3N7ISoGjLVDipArNCb6R2RYdATWvoDBtCKZ34cR2yoiYmijI2dw00f7fyaTvD';
+$stripe_secret_key = '_stripe_secret_key_';
