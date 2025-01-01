@@ -23,7 +23,7 @@ if (!empty($cmail)) {
             $mail->Host = 'smtp.gmail.com';
             $mail->SMTPAuth = true;
             $mail->Username = 'methmika.javainstitute@gmail.com';
-            $mail->Password = 'yarretnrbedeumwp';
+            $mail->Password = '_APP_PASSWORD_';
             $mail->SMTPSecure = 'ssl';
             $mail->Port = 465;
             $mail->setFrom($cmail, 'Contact');
